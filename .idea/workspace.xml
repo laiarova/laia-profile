@@ -25,9 +25,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Laiar/Desktop/Nueva carpeta",
+    "last_opened_file_path": "C:/Users/Laiar/Desktop/laia-profile",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,6 +50,7 @@
       <workItem from="1704655708586" duration="434000" />
       <workItem from="1704656160762" duration="5000" />
       <workItem from="1704656314867" duration="58000" />
+      <workItem from="1761374787598" duration="485000" />
     </task>
     <servers />
   </component>
